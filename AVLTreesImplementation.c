@@ -4,7 +4,7 @@ struct node
 {
     int data,h;
     struct node *left,*right;
-};
+}; 
 struct node* insert(struct  node*,int);
 void inorder(struct node*);
 struct node* delete1(struct node*,int);
