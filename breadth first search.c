@@ -4,7 +4,7 @@
 int a[10][10], visited[10], queue[100], qv=-1;
 
 void bfs(int i) 
-{
+{ 
     int j;
     printf("%d\t", i);
     visited[i] = 1;    // mark it as visited
