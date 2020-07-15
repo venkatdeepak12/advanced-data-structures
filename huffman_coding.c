@@ -1,7 +1,7 @@
 #include<stdio.h>
 void insert(int);
 int deletemin(void);
-void swap(int,int);
+void swap(int,int); 
 int a[100],n=0;
 int main()
 {
