@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void dijkstra(int,int);
+void dijkstra(int,int); 
 int mat[100][100];
 int known[100],path[100],cost[100];
 
