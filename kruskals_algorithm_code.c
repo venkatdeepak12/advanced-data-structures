@@ -2,7 +2,7 @@
 using namespace std;
 int parent[100],cost[100][100],n,sum;
 int find(int i)
-{
+{ 
     while (parent[i] != i)
         i = parent[i];
     return i;
