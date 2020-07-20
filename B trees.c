@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include <conio.h>
-#define M 5
+#define M 5 
 
 struct node{
 int n; /* n < M No. of keys in node will always less than order of B
