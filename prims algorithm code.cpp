@@ -3,7 +3,7 @@ using namespace std;
 int a[100][100],v[100],id,sum,c,n;
 void prims() {
     int mi,k,j,i;
-    cout<<"\n"<<id<<"->";
+    cout<<"\n"<<id<<"->"; 
     --id;
     v[id]=1;
     while(c!=n-1) {
