@@ -1,6 +1,6 @@
 #include <bits/stdc++.h> 
 using namespace std; 
-  
+    
 enum Color {RED, BLACK}; 
   
 struct Node 
