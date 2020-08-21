@@ -25,7 +25,7 @@ int main()
             }
     else if(c==3)
         for(i=0;i<n;i++)
-        printf("%d ",a[i]);
+        printf("%d ",a[i]); 
     else
         break;
     }
