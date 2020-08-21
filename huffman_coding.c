@@ -81,6 +81,6 @@ void swap(int i,int j)
 {
     int t;
     t=a[i];
-    a[i]=a[j];
+    a[i]=a[j];    
     a[j]=t;
 }
